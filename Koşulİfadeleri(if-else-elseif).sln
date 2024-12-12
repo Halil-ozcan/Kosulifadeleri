@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koşulİfadeleri(if-else-el
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{AB493D24-67C2-4FB2-B4EA-33994E09C7E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararYapilariAlistirma1", "KararYapilariAlistirma1\KararYapilariAlistirma1.csproj", "{8A603158-8082-4FC8-849C-D9F5479366F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AB493D24-67C2-4FB2-B4EA-33994E09C7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB493D24-67C2-4FB2-B4EA-33994E09C7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB493D24-67C2-4FB2-B4EA-33994E09C7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A603158-8082-4FC8-849C-D9F5479366F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A603158-8082-4FC8-849C-D9F5479366F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A603158-8082-4FC8-849C-D9F5479366F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A603158-8082-4FC8-849C-D9F5479366F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
