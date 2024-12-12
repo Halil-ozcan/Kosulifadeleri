@@ -10,6 +10,27 @@ namespace SwitchCase
     {
         static void Main(string[] args)
         {
+            Console.Write("Hangi ay : ");
+            string kullanicideger = Console.ReadLine(); 
+                
+            switch(kullanicideger)
+            {
+                case "Ocak":
+                    Console.WriteLine("01");
+                    break;
+
+                case "Şubat":
+                    Console.WriteLine("02");
+                    break;
+
+                case "Mart":
+                    Console.WriteLine("03");
+                    break;
+                default:
+                    Console.WriteLine("Berlirtilen değer dışında bir değer girdiniz";
+                    break;
+
+            }
         }
     }
 }
