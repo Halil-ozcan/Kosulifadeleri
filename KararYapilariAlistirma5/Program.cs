@@ -16,11 +16,7 @@ namespace KararYapilariAlistirma5
             switch(KullaniciKodu)
             {
                 case "AA":
-                    Console.WriteLine("Admin Yetkisine Sahipsiniz");
-                    break;
                 case "BB":
-                    Console.WriteLine("Admin Yetkisine Sahipsiniz");
-                    break;
                 case "CC":
                     Console.WriteLine("Admin Yetkisine Sahipsiniz");
                     break;
@@ -28,11 +24,7 @@ namespace KararYapilariAlistirma5
                     Console.WriteLine(" Güçlü Yetkisine Sahipsiniz");
                     break;
                 case "FF":
-                    Console.WriteLine("Standart Yetkisine Sahipsiniz");
-                    break;
                 case "EE":
-                    Console.WriteLine("Standart Yetkisine Sahipsiniz");
-                    break;
                 case "GG":
                     Console.WriteLine("Standart Yetkisine Sahipsiniz");
                     break;
