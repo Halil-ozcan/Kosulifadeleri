@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\Sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararYapilariAlistirma1", "KararYapilariAlistirma1\KararYapilariAlistirma1.csproj", "{8A603158-8082-4FC8-849C-D9F5479366F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararyYapilariAlistirma2", "KararyYapilariAlistirma2\KararyYapilariAlistirma2.csproj", "{01E78B74-5048-47AD-BBBF-09D24C9A4A18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A603158-8082-4FC8-849C-D9F5479366F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A603158-8082-4FC8-849C-D9F5479366F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A603158-8082-4FC8-849C-D9F5479366F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E78B74-5048-47AD-BBBF-09D24C9A4A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E78B74-5048-47AD-BBBF-09D24C9A4A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E78B74-5048-47AD-BBBF-09D24C9A4A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E78B74-5048-47AD-BBBF-09D24C9A4A18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
