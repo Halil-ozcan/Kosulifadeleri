@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararYapilariAlistirma1", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararyYapilariAlistirma2", "KararyYapilariAlistirma2\KararyYapilariAlistirma2.csproj", "{01E78B74-5048-47AD-BBBF-09D24C9A4A18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaraYapilariAlistirma3", "KaraYapilariAlistirma3\KaraYapilariAlistirma3.csproj", "{F4B62C1F-6638-4B7E-80A6-40725A9F3791}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{01E78B74-5048-47AD-BBBF-09D24C9A4A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01E78B74-5048-47AD-BBBF-09D24C9A4A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01E78B74-5048-47AD-BBBF-09D24C9A4A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B62C1F-6638-4B7E-80A6-40725A9F3791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B62C1F-6638-4B7E-80A6-40725A9F3791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B62C1F-6638-4B7E-80A6-40725A9F3791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B62C1F-6638-4B7E-80A6-40725A9F3791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
